@@ -1,32 +1,37 @@
-
-body{
+body {
     margin-top: 30px !important;
 }
-p{
+
+p {
     white-space: nowrap;
     text-align: center;
     font-size: 20px;
 }
-#logo{
+
+#logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
-#subtext{
+
+#subtext {
     font-size: 16px;
 }
-#clickactivity{
+
+#clickactivity {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     margin-top: -10px;
 }
-#subtext{
+
+#subtext {
     margin: 10px;
 }
-#requirements{
+
+#requirements {
     font-size: 25px;
     font-weight: bold;
 }
