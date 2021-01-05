@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "CanvasAverages",
+    "version": "0.1",
+    "permissions": ["tabs", "<all_urls>"],
+    
+    "description": "find class average quickly and easily",
+   
+    
+    "browser_action": {  
+        "default_icon": "icon1.png",  
+        "default_popup": "popup.html"  
+    }
+        
+    
+    
+
+    
+}
