@@ -1,7 +1,7 @@
 # CanvasAverages
 A Chrome Extension to be used on a grade page on Canvas, a learning management system. 
 
-Functionality:
+# Functionality
 On the Canvas grade pages, instructors may opt to allow students to try a "what if" score that gives the option to test how a different score would affect their overall grade. 
 
 Most instructors also allow for the average of the class on a specific assignment to be shown. 
