@@ -27,12 +27,9 @@ async function load(time) {
 }
 //clicks score to render html input element
 //inserts respective class average in assignment
-console.log(skipped);
 async function clickScore() {
     alert('Inserting "what-if" scores');
     var origScores = document.getElementsByClassName("assignment_score");
-    //alert(studentAssignment[0].getElementsByClassName("status")[0].innerHTML.includes("missing"));
-    alert(studentAssignment[1].getElementsByClassName("toggle_score_details_link tooltip")[0].getAttribute("style") == null);
     for (var i = 1; i < origScores.length; i++) {
         if (studentAssignment[i - 1].getAttribute("data-muted").localeCompare("false") == 0 &&
             !studentAssignment[i - 1].getElementsByClassName("status")[0].innerHTML.includes("missing") &&
